@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/market-overview/static/css/main.e6c13ad2.css",
+    "main.js": "/market-overview/static/js/main.4129f482.js",
+    "static/js/787.21596ae4.chunk.js": "/market-overview/static/js/787.21596ae4.chunk.js",
+    "index.html": "/market-overview/index.html",
+    "main.e6c13ad2.css.map": "/market-overview/static/css/main.e6c13ad2.css.map",
+    "main.4129f482.js.map": "/market-overview/static/js/main.4129f482.js.map",
+    "787.21596ae4.chunk.js.map": "/market-overview/static/js/787.21596ae4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4129f482.js"
+  ]
+}
