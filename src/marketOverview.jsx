@@ -5,7 +5,7 @@ const MrkOverview = () => {
   return (
     <MarketOverview
       colorTheme="dark"
-      height="460"
+      height="450"
       width="100%"
       showChart={false}
       dateRange="1D"
