@@ -20,7 +20,13 @@ const MrkOverview = () => {
               s: "BINANCE:DOTUSDT",
             },
             {
+              s: "BINANCE:SOLUSDT",
+            },
+            {
               s: "BINANCE:BATUSDT",
+            },
+            {
+              s: "BINANCE:LINKUSDT",
             },
             {
               s: "BINANCE:ETHUSDT",
@@ -28,9 +34,7 @@ const MrkOverview = () => {
             {
               s: "BINANCE:XRPUSDT",
             },
-            {
-              s: "BINANCE:LINKUSDT",
-            },
+            
             {
               s: "BINANCE:BNBUSDT",
             },
@@ -42,9 +46,6 @@ const MrkOverview = () => {
             },
             {
               s: "BINANCE:DOGEUSDT",
-            },
-            {
-              s: "BINANCE:SOLUSDT",
             },
             {
               s: "BINANCE:ADAUSDT",
